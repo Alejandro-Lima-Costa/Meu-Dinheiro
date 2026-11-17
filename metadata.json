@@ -1,0 +1,6 @@
+{
+  "name": "FinanSync Mobile - Gestão Financeira Inteligente",
+  "description": "Aplicativo financeiro mobile com controle de gastos mensais, gráficos de despesas em tempo real, metas com alertas inteligentes, integração Open Finance com bancos e cartões, segurança avançada e exportação de relatórios em PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
